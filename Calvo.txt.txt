@@ -1,2 +1,6 @@
 canviss
+<<<<<<< HEAD
 usuari2
+=======
+usuari1
+>>>>>>> 6618f8fd8cc79012aeba926438c04e75bfceafb0
